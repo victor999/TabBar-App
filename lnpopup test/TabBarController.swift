@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import LNPopupController
 
 class TabBarController: UITabBarController {
 

@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import LNPopupController
 
 class FavoritesViewController: UIViewController {
     
